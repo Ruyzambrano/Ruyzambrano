@@ -8,25 +8,28 @@ people with their issues and have a positive manner. I have a focus on continuou
 systems and services and in my own personal development, as evidenced by my ongoing studies towards an MSc in 
 Computer Science.
 
+
 ### I am currently learning
 
 I am currently studying Computer Science at the University of York as well as completing several different coding bootcamps. 
 I have been learning Python, Java, HTML and CSS and have been using my knowledge to build apps and websites!
+
 
 ### I am looking to collaborate!
 
 As an aspiring engineer, I am always looking for new projects to collaborate on to develop my skills. I am hands-on
 and love to challenge myself - it's the best way to learn!
 
+
 ### How to reach me
 
 You can reach me on my [LinkedIn page](https://www.linkedin.com/in/ruy-zambrano/)! 
 
 
-##Check out my recent projects!
+## Check out my recent projects!
 
-* [Nike Warehouse Inventory App](https://github.com/Ruyzambrano/finalCapstone)
-* [A website for a counselling practice](https://github.com/Ruyzambrano/counselling_website) /* Work in progress
+* [Nike warehouse inventory app](https://github.com/Ruyzambrano/finalCapstone)
+* [A website for a counselling practice](https://github.com/Ruyzambrano/counselling_website) * Work in progress
 * [A simple task manager app](https://github.com/Ruyzambrano/task_manager)
 
 <!--
