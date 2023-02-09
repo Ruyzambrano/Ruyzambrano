@@ -31,11 +31,13 @@ You can reach me on my [LinkedIn page](https://www.linkedin.com/in/ruy-zambrano/
 
 This performance uses a manipulated video of the dancer to create a monstrous digital double. Based on the research about Victorian Gothic horror, the performance integrates themes of the unknown and uncanny through technological ambiguity such as dim lights, projection, sound and using the dancer's skin as a projection surface.
 
+![This has been coming a long time, now photo](https://user-images.githubusercontent.com/111122180/217794009-2afc3574-aa4d-4348-8c8b-1319f9547a0c.JPG)
 
 ### [*We Found It With Each Other*](https://www.youtube.com/watch?v=uVFoqOnRDgM&ab_channel=RuyZambrano) 
 
 As part of an undergraduate thesis, this performance uses tech to segment it into chunks. As the performance changes, tech is used to keep track of time, cue light and sound changes as well as add stunning visuals to highlight movement.
 
+![We Found It With Each Other screenshot 1](https://user-images.githubusercontent.com/111122180/217792814-4d6f5ac4-788c-4fd0-8c2a-0f34b98acbcc.png)
 
 <!--
 **Ruyzambrano/Ruyzambrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
