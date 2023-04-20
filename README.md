@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am an aspiring Data Engineer with a huge interest in technology, AI and how tech can have a role in dance! As an ex-teacher, I am looking to develop my skills in programming languages and work within the tech industry.
+I am an aspiring Data Engineer with a huge interest in technology, AI and how tech can have a role in dance! As an ex-teacher, I am looking to develop my skills in programming languages and work within the tech industry. At Xander Talent, I am learning the skills needed to be a successful Data Engineer Consultant.
 
 
 ## I am currently learning
