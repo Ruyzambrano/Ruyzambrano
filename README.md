@@ -43,7 +43,7 @@ As part of an undergraduate thesis, this performance uses tech to segment it int
 <image src="https://user-images.githubusercontent.com/111122180/217792814-4d6f5ac4-788c-4fd0-8c2a-0f34b98acbcc.png" alt="We Found It With Each Other screenshot" width=50%>
 
 <br />
-#------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br />
 <br />
  
 <image src="https://user-images.githubusercontent.com/111122180/233380754-d2a40578-a440-4ae9-a964-916c6f76e5f9.png" alt="Xander Banner" width=100%>
