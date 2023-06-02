@@ -31,7 +31,7 @@ You can reach me on my [LinkedIn page](https://www.linkedin.com/in/ruy-zambrano/
 
 This performance uses a manipulated video of the dancer to create a monstrous digital double. Based on the research about Victorian Gothic horror, the performance integrates themes of the unknown and uncanny through technological ambiguity such as dim lights, projection, sound and using the dancer's skin as a projection surface.
 
-<image src="https://user-images.githubusercontent.com/111122180/217794009-2afc3574-aa4d-4348-8c8b-1319f9547a0c.JPG" alt="This has been coming a long time, now photo" width=50%>
+<image src="https://user-images.githubusercontent.com/111122180/217793952-3023eeb0-67ed-49be-b3cf-1bfce718d14d.JPG" alt="This has been coming a long time, now photo" width=50%>
 
 
 ### [*We Found It With Each Other*](https://www.youtube.com/watch?v=uVFoqOnRDgM&ab_channel=RuyZambrano) 
