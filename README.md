@@ -20,8 +20,8 @@ You can reach me on my [LinkedIn page](https://www.linkedin.com/in/ruy-zambrano/
 
 ## Check out my recent projects!
 
+* [A data pipeline using Project Gutenberg](https://github.com/Ruyzambrano/Project_Gutenberg_Data_Pipeline_Sentiment_Analysis_Project)
 * [Nike warehouse inventory app](https://github.com/Ruyzambrano/finalCapstone)
-* [A website for a counselling practice](https://github.com/Ruyzambrano/counselling_website) * Work in progress
 * [A simple task manager app](https://github.com/Ruyzambrano/task_manager)
 
 
