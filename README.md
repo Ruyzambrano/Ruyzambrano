@@ -20,9 +20,9 @@ You can reach me on my [LinkedIn page](https://www.linkedin.com/in/ruy-zambrano/
 
 ## Check out my recent projects!
 
+* [Play retro arcade games using pygame](https://github.com/Ruyzambrano/pygame_practise)
 * [A data pipeline using Project Gutenberg](https://github.com/Ruyzambrano/Project_Gutenberg_Data_Pipeline_Sentiment_Analysis_Project)
 * [Nike warehouse inventory app](https://github.com/Ruyzambrano/finalCapstone)
-* [A simple task manager app](https://github.com/Ruyzambrano/task_manager)
 
 
 ## Take a look how I integrate tech into performance!
