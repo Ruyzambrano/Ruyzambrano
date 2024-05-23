@@ -46,8 +46,6 @@ As part of an undergraduate thesis, this performance uses tech to segment it int
 <br />
 <br />
  
-<image src="https://user-images.githubusercontent.com/111122180/233380754-d2a40578-a440-4ae9-a964-916c6f76e5f9.png" alt="Xander Banner" width=100%>
-
  
  <!--
 **Ruyzambrano/Ruyzambrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
